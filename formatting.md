@@ -22,4 +22,4 @@
 <p align="center"><img src="Rangertone_no_audio.jpg" /></p>.
 
 *Example 8, Fairchild pilot tone, pilot visible at 14k with audio content below 10k*.
-<p align="center"><img src="Fairchild.png" /></p>.
+<p align="center"><img src="fairchild.png" /></p>.
