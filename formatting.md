@@ -21,5 +21,5 @@
 *Example 7, Rangertone pilot with no audio signal*.
 <p align="center"><img src="Rangertone_no_audio.jpg" /></p>.
 
-*Example 8, Fairchild pilot tone, pilot visible at 14k with audio content below 10k*.
+*Example 8, Fairchild pilot tone: pilot visible at 14k as well as the pilot tone's harmonic distortion at 28k; the principal audio content is below 10k*.
 <p align="center"><img src="fairchild.png" /></p>.
